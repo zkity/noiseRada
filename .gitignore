@@ -1,0 +1,19 @@
+# Build
+build/
+mx.scratch
+
+# Objects / firmware artifacts
+*.o
+*.d
+*.su
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+*.a
+
+# OS / IDE
+.DS_Store
+.settings/
+# .vscode/   # 若不想上传 VS Code 配置，取消本行注释
